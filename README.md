@@ -116,3 +116,4 @@ Here the weights of the sets would be 2 and 3 respectively and are stored in the
 ## Delete set and Exit
 ![](Delete&#32;set&#32;and&#32;exit.gif) 
 
+## Voila! And we are done!!
