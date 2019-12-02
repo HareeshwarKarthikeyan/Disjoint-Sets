@@ -1,3 +1,5 @@
+// created by Harry Specter
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
