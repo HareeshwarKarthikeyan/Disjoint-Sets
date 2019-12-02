@@ -99,20 +99,20 @@ Here the weights of the sets would be 2 and 3 respectively and are stored in the
 # Output
 
 ## Create set
-![](Create_set.gif) 
+![](Creat&#32;set.gif) 
 
 ## Add element to set
-![](Add_Element_to_Set.gif) 
+![](Add&#32;Element&#32;to&#32;Set.gif) 
 
 ## Find set
-![](Find_Set.gif) 
+![](Find&#32;Set.gif) 
 
 ## Remove element from set
-![](Remove_element_from_set.gif) 
+![](Remove&#32;element&#32;from&#32;set.gif) 
 
 ## Union
 ![](Union.gif) 
 
 ## Delete set and Exit
-![](Delete_set_and_exit.gif) 
+![](Delete&#32;set&#32;and&#32;exit.gif) 
 
