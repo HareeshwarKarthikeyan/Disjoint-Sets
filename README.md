@@ -1,6 +1,11 @@
 # Disjoint-Sets
 Implementation of Disjoint Sets using Linked List in Java
 
+## What are Disjoint Sets?
+If there are no elements common between two sets then the two sets are said to be disjoint. A collection of more than two sets is called disjoint if any two distinct sets of the collection is disjoint. Two sets A and B are said to be disjoint if
+> A ⋂ B = ϕ
+
+
 ## Sample Representation
 Consider the following representation of two sets 
 
