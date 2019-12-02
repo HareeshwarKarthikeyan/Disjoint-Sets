@@ -95,4 +95,24 @@ Here the weights of the sets would be 2 and 3 respectively and are stored in the
       * Deleting elements from the set
       * Finding the representative of a given element
       * Union of two sets
+      
+# Output
+
+## Create set
+![](Create_set.gif) 
+
+## Add element to set
+![](Add_Element_to_Set.gif) 
+
+## Find set
+![](Find_Set.gif) 
+
+## Remove element from set
+![](Remove_element_from_set.gif) 
+
+## Union
+![](Union.gif) 
+
+## Delete set and Exit
+![](Delete_set_and_exit.gif) 
 
