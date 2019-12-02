@@ -99,7 +99,7 @@ Here the weights of the sets would be 2 and 3 respectively and are stored in the
 # Output
 
 ## Create set
-![](Creat&#32;set.gif) 
+![](Create&#32;set.gif) 
 
 ## Add element to set
 ![](Add&#32;Element&#32;to&#32;Set.gif) 
